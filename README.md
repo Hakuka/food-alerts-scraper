@@ -1,11 +1,10 @@
 # FoodAlertsScraper
 
-Scraper for public food safety alerts.
+Scraper for public food safety alerts. At one point, it became AI slop because I was too curious to see how quickly it would fail.
 
 ## Purpose
 
-The goal of this project is to save time by collecting public food safety alerts from multiple websites and sending them as telegram messages.
-The application keeps local alert state, so already sent alerts are not sent again.
+The goal of this project is to save time by collecting public food safety alerts from multiple websites and sending them as telegram messages. The application keeps local alert state, so already sent alerts are not sent again.
 
 ## Supported sources
 
